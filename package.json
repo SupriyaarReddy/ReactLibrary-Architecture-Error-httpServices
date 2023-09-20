@@ -7,7 +7,7 @@
   "repository": "",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
-  "source": "src/index.js",
+  "source": "libs/index.js",
   "engines": {
     "node": ">=10"
   },
